@@ -1,2 +1,5 @@
 "Hello World"
 Welcome to DevOps
+ int a,b,c,d,e,f
+ f=a+b+c+d+e
+ print(f)
